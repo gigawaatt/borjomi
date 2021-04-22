@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1500
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borjomi", "Borjomi\Borjomi.csproj", "{771CFA31-45BC-4108-AF6D-7F79FAFFA2B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borjomi", "Borjomi\Borjomi.csproj", "{9BC37C48-5532-41EF-BE25-4B4AF0006E0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{771CFA31-45BC-4108-AF6D-7F79FAFFA2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{771CFA31-45BC-4108-AF6D-7F79FAFFA2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{771CFA31-45BC-4108-AF6D-7F79FAFFA2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{771CFA31-45BC-4108-AF6D-7F79FAFFA2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BC37C48-5532-41EF-BE25-4B4AF0006E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC37C48-5532-41EF-BE25-4B4AF0006E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC37C48-5532-41EF-BE25-4B4AF0006E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC37C48-5532-41EF-BE25-4B4AF0006E0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C36EA707-80EC-4FD6-A54E-E57FAEEB5266}
+		SolutionGuid = {61BDDD04-3207-452B-B2AB-74749776702F}
 	EndGlobalSection
 EndGlobal
